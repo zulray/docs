@@ -27,7 +27,7 @@ versions:
 {% topic_link_in_list /listing-an-app-on-github-marketplace %}
     {% link_in_list /drafting-a-listing-for-your-app %}
     {% link_in_list /writing-a-listing-description-for-your-app %}
-    {% link_in_list /setting-pricing-plans-for-your-listing %}
+    {% link_in_list /263847 %}
     {% link_in_list /configuring-a-webhook-to-notify-you-of-plan-changes %}
     {% link_in_list /submitting-your-listing-for-publication %}
 {% topic_link_in_list /selling-your-app-on-github-marketplace %}
